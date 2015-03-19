@@ -1,0 +1,31 @@
+* {margin:0,padding:0}
+body {font-family:arial;color:#666;font-family:arial;font-size:14px;line-height:20px;background:url(images/bg.png) repeat scroll 0 0 }
+h1,h2,h3,h4,h5,h6 {font-weight:normal}
+
+.fix {overflow:hidden;}
+.floatleft {float:left}
+.floatright {float:right}
+.stracture {width:960px;margin:0 auto;display:block;}
+
+.header_area{background:#33A6B2}
+.header{}
+.logo{}
+.header_right{}
+.zigzag_header{background:url(images/zigzag_bototm_white.png) repeat-x;height:5px;margin-bottom:20px}
+.slider_area{}
+.slider{}
+.promo_area{}
+.promo{}
+.single_promo{}
+.featured_area{}
+.featured{}
+.featured_post_area{}
+.footer_top_area{}
+.footer_top{}
+.footer_list{}
+.latest_post{}
+.latest_post_area{}
+.footer_bottom_area{}
+.footer_bottom{}
+.footer_left{}
+.footer_right{}

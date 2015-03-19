@@ -1,0 +1,29 @@
+* {margin:0,padding:0}
+body {font-family:arial;color:#666;font-family:arial;font-size:14px;line-height:20px;}
+
+.fix {overflow:hidden;}
+.floatleft {float:left}
+.floatright {float:right}
+.stracture {width:960px;margin:0 auto;display:block;}
+
+.header_area{}
+.header{}
+.logo{}
+.header_right{}
+.slider_area{}
+.slider{}
+.promo_area{}
+.promo{}
+.single_promo{}
+.featured_area{}
+.featured{}
+.featured_post_area{}
+.footer_top_area{}
+.footer_top{}
+.footer_list{}
+.latest_post{}
+.latest_post_area{}
+.footer_bottom_area{}
+.footer_bottom{}
+.footer_left{}
+.footer_right{}
